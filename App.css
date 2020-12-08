@@ -1,0 +1,45 @@
+body {
+  background: url("./currencyImg.jpeg");
+  
+  margin: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.abc {
+  border: solid white 5px;
+  background-color: burlywood;
+  border-radius: .9em;
+  padding-top: 60px;
+  padding-right: 100px;
+  padding-bottom: 60px;
+  padding-left: 100px;
+
+}
+
+h2 {
+  margin: auto;
+  margin-bottom: 1.0rem;
+  padding-bottom: ;
+}
+
+.input {
+  border: 2px solid #333;
+  border-radius: .4em;
+  padding: .25rem;
+  width: 7em;
+
+}
+
+select {
+  margin-left: 1.0rem;
+}
+
+.equals {
+  font-weight: bold;
+  font-size: 2rem;
+  font-family: fantasy;
+}
